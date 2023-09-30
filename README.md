@@ -8,7 +8,7 @@
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-0.1-green.svg?style=flat-square"></a>
 <a href="https://github.com/Z3R0SEC/Brute/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Z3R0SEC/Brute?color=red&style=flat-square"></a>
 <a href="https://github.com/Z3R0SEC/Brute/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Z3R0SEC/Brute?color=red&style=flat-square"></a>
-<a href="https://github.com/Z3R0SEC/Brute/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/htr-tech/host?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Z3R0SEC/Brute/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Z3R0SEC/Brute?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## Installation :
